@@ -37,7 +37,7 @@
     "@fortawesome/free-regular-svg-icons": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/vue-fontawesome": "^2.0.2",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "dateformat": "^3.0.3",
     "esprima": "^4.0.1",
     "fast-json-stable-stringify": "^2.1.0",
